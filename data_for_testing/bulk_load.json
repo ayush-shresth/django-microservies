@@ -1,0 +1,247 @@
+{
+    "series1": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            }
+        }
+    },
+    "series2": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            },
+            "chapter3": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter3"
+            },
+            "chapter4": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter4"
+            },
+            "chapter5": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter5"
+            }
+        }
+    },
+    "series3": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            }
+        }
+    },
+    "series4": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            }
+        }
+    },
+    "series5": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            },
+            "chapter3": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter3"
+            },
+            "chapter4": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter4"
+            },
+            "chapter5": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter5"
+            }
+        }
+    },
+    "series6": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            }
+        }
+    },
+    "series7": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            }
+        }
+    },
+    "series8": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            },
+            "chapter3": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter3"
+            },
+            "chapter4": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter4"
+            },
+            "chapter5": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter5"
+            },
+            "chapter6": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter6"
+            }
+        }
+    },
+    "series9": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            }
+        }
+    },
+    "series10": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            }
+        }
+    },
+    "series11": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            }
+        }
+    },
+    "series12": {
+        "description": "sdes",
+        "chapter": {
+            "chapter1": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter1"
+            },
+            "chapter2": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter2"
+            },
+            "chapter3": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter3"
+            },
+            "chapter4": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter4"
+            },
+            "chapter5": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter5"
+            },
+            "chapter6": {
+                "name": "nn",
+                "description": "cdes",
+                "text": "This is text of chapter6"
+            }
+        }
+    }
+}
