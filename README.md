@@ -54,6 +54,15 @@ Start the server in the new bash
    - localhost/api/user/ 
 - Create a new user (POST)
    - localhost/api/user/ 
+   - user data will include
+        - user_first_name
+        - user_last_name
+        - user_email
+        - user_phone
+        - user_state
+        - user_country
+   - sample -> find the sample data in "data_for_testing/user.json"
+   - ![user](https://user-images.githubusercontent.com/55576970/163776938-ef822128-a85f-4ce3-b707-f8700fea1ec0.PNG)
 
 
 ## Content Service**
@@ -87,6 +96,20 @@ Start the server in the new bash
    - localhost/api/content/**$ user_id**/**$ series_id**/
 - Api for bulk upload of the content (POST)
    - localhost/api/content/load/  
+   - Data for bulk load should include
+      - series
+          - description -> descriptions about series
+          - chapter
+              - chapter1
+                  - name -> chapter_name
+                  - description -> chapter_description
+                  - text -> chapter_contents
+              - chapter2
+                  - name -> chapter2_name
+                  - description -> chapter2_description
+                  - text -> chapter2_text
+    - sample-> find the sample data in "data_for_testing/bulk_load.json"
+    - ![bulk_load](https://user-images.githubusercontent.com/55576970/163776972-707b1013-c810-4e24-b25c-cea181c65d25.PNG)
 
 
 ## Daily Pass**
